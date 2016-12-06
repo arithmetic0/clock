@@ -1,0 +1,13 @@
+body {
+  background: radial-gradient(circle farthest-corner at center, #7bf8fc 0%, #d1ed57 100%);
+  overflow: hidden;
+}
+
+canvas {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
